@@ -12,7 +12,7 @@ Papers, codes, datasets, researchers on information bottleneck
 
 ### 2020
 
-- <a name=""></a><u>**[Our lab's work]**</u>  Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
+- <a name=""></a> **[Our lab's work]** Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
 - <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
 - <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
@@ -23,7 +23,7 @@ Papers, codes, datasets, researchers on information bottleneck
 
 - <a name=""></a> **(DIM)** R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)] [[code](https://github.com/rdevon/DIM)]
 
-- <a name=""></a> 	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
+- <a name=""></a> **(MIB)**	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
 
 ### 2017
 
