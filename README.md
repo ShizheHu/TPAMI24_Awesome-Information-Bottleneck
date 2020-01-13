@@ -16,7 +16,9 @@ A curated list of related resources for information bottleneck.
 
 ### arXiv Papers
 
-- <a name=""></a> Aleksander Wieczorek, Volker Roth: On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]
+- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]
+_Aleksander Wieczorek, Volker Roth_
+
 - <a name=""></a> Sayandev Mukherjee: General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]
 - <a name=""></a> Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende: Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]
 - <a name=""></a> Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund: The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]
