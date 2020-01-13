@@ -80,5 +80,5 @@ For any questions regard this repository, please directly contact [Shizhe Hu](ie
 
 ## License
 
-To the extent possible under law, [Shizhe Hu](https://github.com/ShizheHu) has waived all copyright and
+To the extent possible under law, [Shizhe Hu](https://github.com/ShizheHu) has retained all copyright and
 related or neighboring rights to this work.
