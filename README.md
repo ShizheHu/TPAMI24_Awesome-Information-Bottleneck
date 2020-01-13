@@ -19,5 +19,5 @@ Papers, codes, datasets, researchers on information bottleneck
 
 
 ## Researchers
-* [Naftali Tishby](http://people.eecs.berkeley.edu/~cbfinn/), Hebrew University of Jerusalem
-* [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University
+* [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel.
+* [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University, Zhengzhou, China.
