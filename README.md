@@ -35,7 +35,7 @@ Papers, codes, datasets, researchers on information bottleneck
 
 ### 2015
 
-- <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Zhengzheng Lou: Unsupervised video categorization based on multivariate information bottleneck method (**Knowledge-based Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S095070511500132X)]
+- <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Zhengzheng Lou: Unsupervised video categorization based on multivariate information bottleneck method (**Knowl.-Based Syst.**) [[paper](https://www.sciencedirect.com/science/article/pii/S095070511500132X)]
 - <a name=""></a> Yangdong Ye, Ruina Liu, Zhengzheng Lou: Incorporating side information into multivariate Information Bottleneck for generating alternative clusterings (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865514002530)]
 
 ### 2013
@@ -54,8 +54,21 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 ### 1999
 
-- <a name=""></a> Noam Slonim,Naftali Tishby: Agglomerative Information Bottleneck (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
+- <a name=""></a> Noam Slonim,Naftali Tishby: Noam Slonim，Naftali Tishby (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
 
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
 * [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University, Zhengzhou, China. 
+
+## Citing
+
+``` 
+@misc{
+  hu2020ib,
+  title={Awesome-Information-Bottleneck},
+  author={Shizhe Hu},
+  year={2020},
+  publisher={GitHub},
+  howpublished={\url{https://github.com/ShizheHu/Awesome-Information-Bottleneck}},
+}
+``` 
