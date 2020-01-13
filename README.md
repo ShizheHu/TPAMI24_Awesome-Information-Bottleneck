@@ -30,7 +30,7 @@ _Aleksander Wieczorek, Volker Roth_
 
 ### 2020 
 
-- <a name=""></a> ![] (https://img.shields.io/badge/Journal-Our-lab's-work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
+- <a name=""></a> ![] (https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
 - <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
 - <a name=""></a> **(SIB)** Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
