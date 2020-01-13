@@ -41,7 +41,7 @@ A curated list of related resources for information bottleneck.
 
 ### 2013
 
-- <a name=""></a> Zhengzheng Lou, Yangdong Ye, Xiaoqiang Yan: The Multi-Feature Information Bottleneck with Application to
+- <a name=""></a> **(MfIB)** Zhengzheng Lou, Yangdong Ye, Xiaoqiang Yan: The Multi-Feature Information Bottleneck with Application to
 Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI13/paper/view/6684/6926)]
 
 ### 2011
