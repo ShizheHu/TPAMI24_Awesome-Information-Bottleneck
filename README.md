@@ -52,6 +52,10 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 - <a name=""></a> Zhengzheng Lou, Yangdong Ye, Dong Liu: UUnsupervised object category discovery via information bottleneck method (**ACM MM**) [[paper](https://dl.acm.org/citation.cfm?id=1874098)]
 
+### 1999
+
+- <a name=""></a> Noam Slonim,Naftali Tishby: Noam Slonim，Naftali Tishby (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
+
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
 * [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University, Zhengzhou, China. 
