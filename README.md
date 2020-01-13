@@ -1,7 +1,12 @@
 # Awesome-Information-Bottleneck
 Papers, codes, datasets, homepages on information bottleneck
 
-Update Later
+## Contents
+* [Codes](#codes)
+* [Datasets](#datasets)
+* [Papers](#papers)
+* [Homepages](#homepages)
+
 
 ## Papers
 
