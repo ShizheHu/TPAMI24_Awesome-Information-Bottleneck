@@ -4,7 +4,7 @@ A curated list of related resources for information bottleneck.
 
 ## Contents
 
-* [Papers](#pPapers)
+* [Papers](#papers)
 * [Datasets](#datasets)
 * [Researchers](#researchers)
 * [Citing](#citing)
