@@ -36,8 +36,8 @@ A curated list of related resources for information bottleneck.
 
 ### 2015
 
-- <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Zhengzheng Lou: Unsupervised video categorization based on multivariate information bottleneck method (**Knowl.-Based Syst.**) [[paper](https://www.sciencedirect.com/science/article/pii/S095070511500132X)]
-- <a name=""></a> Yangdong Ye, Ruina Liu, Zhengzheng Lou: Incorporating side information into multivariate Information Bottleneck for generating alternative clusterings (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865514002530)]
+- <a name=""></a> **(MvIB)** Xiaoqiang Yan, Yangdong Ye, Zhengzheng Lou: Unsupervised video categorization based on multivariate information bottleneck method (**Knowl.-Based Syst.**) [[paper](https://www.sciencedirect.com/science/article/pii/S095070511500132X)]
+- <a name=""></a> **(SmIB)** Yangdong Ye, Ruina Liu, Zhengzheng Lou: Incorporating side information into multivariate Information Bottleneck for generating alternative clusterings (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865514002530)]
 
 ### 2013
 
