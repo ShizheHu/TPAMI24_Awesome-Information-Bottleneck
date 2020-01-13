@@ -1,10 +1,11 @@
 # Awesome-Information-Bottleneck
-Papers, codes, datasets, researchers on information bottleneck
+
+A curated list of related resources for information bottleneck.
 
 ## Contents
-* [Codes](#codes)
-* [Datasets](#datasets)
+
 * [Papers](#papers)
+* [Datasets](#datasets)
 * [Researchers](#researchers)
 
 
@@ -12,7 +13,7 @@ Papers, codes, datasets, researchers on information bottleneck
 
 ### 2020
 
-- <a name=""></a> <u>**[Our lab's work]**</u>  Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
+- <a name=""></a> **[Our lab's work]** Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
 - <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
 - <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
@@ -23,15 +24,15 @@ Papers, codes, datasets, researchers on information bottleneck
 
 - <a name=""></a> **(DIM)** R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)] [[code](https://github.com/rdevon/DIM)]
 
-- <a name=""></a> **(MIB)**	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
+- <a name=""></a> 	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
 
 ### 2017
 
-- <a name=""></a> **(MTIB)** Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
+- <a name=""></a> Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
 
 ### 2016
 
-- <a name=""></a> **(CIB)** Xiaoqiang Yan, Yangdong Ye, Xueying Qiu: Unsupervised Human Action Categorization with Consensus Information Bottleneck Method (**IJCAI**) [[paper](http://www5.zzu.edu.cn/__local/E/A5/49/B9F810E13BAF2E8FD73C9315AF7_4BA2E9E2_EB090.pdf)]
+- <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu: Unsupervised Human Action Categorization with Consensus Information Bottleneck Method (**IJCAI**) [[paper](http://www5.zzu.edu.cn/__local/E/A5/49/B9F810E13BAF2E8FD73C9315AF7_4BA2E9E2_EB090.pdf)]
 
 ### 2015
 
@@ -75,4 +76,9 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 ## Contact
 
-For any questions regard this paper/code, please directly contact [Shizhe Hu](ieshizhehu@gmail.com).
+For any questions regard this repository, please directly contact [Shizhe Hu](ieshizhehu@gmail.com).
+
+## License
+
+To the extent possible under law, [Shizhe Hu](https://github.com/ShizheHu) has waived all copyright and
+related or neighboring rights to this work.
