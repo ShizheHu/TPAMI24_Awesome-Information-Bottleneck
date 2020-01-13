@@ -72,3 +72,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
   howpublished={\url{https://github.com/ShizheHu/Awesome-Information-Bottleneck}},
 }
 ``` 
+
+## Contact
+
+For any questions regard this paper/code, please directly contact [Shizhe Hu](ieshizhehu@gmail.com).
