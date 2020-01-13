@@ -19,5 +19,5 @@ Papers, codes, datasets, reseachers on information bottleneck
 
 
 ## Reseachers
-* [Chelsa Finn](http://people.eecs.berkeley.edu/~cbfinn/), 
+* [Naftali Tishby](http://people.eecs.berkeley.edu/~cbfinn/), Hebrew University of Jerusalem
 * [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University
