@@ -18,6 +18,11 @@ Papers, codes, datasets, researchers on information bottleneck
 - <a name=""></a> Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
 - <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
 
+
+### 2019
+
+- <a name=""></a> R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)]
+
 ### 2017
 
 - <a name=""></a> Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
