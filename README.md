@@ -23,6 +23,8 @@ Papers, codes, datasets, researchers on information bottleneck
 
 - <a name=""></a> R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)]
 
+- <a name=""></a> 	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
+
 ### 2017
 
 - <a name=""></a> Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
@@ -49,11 +51,6 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 ### 2010
 
 - <a name=""></a> Zhengzheng Lou, Yangdong Ye, Dong Liu: UUnsupervised object category discovery via information bottleneck method (**ACM MM**) [[paper](https://dl.acm.org/citation.cfm?id=1874098)]
-
-
-### 2000
-
-- <a name=""></a> Tishby,Naftali,Pereira,Fernando C.,Bialek, William: The information bottleneck method (**Allerton 2000**) [[paper](https://arxiv.org/abs/physics/0004057)]
 
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
