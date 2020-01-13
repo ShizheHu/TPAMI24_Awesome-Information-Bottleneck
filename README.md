@@ -17,7 +17,7 @@ A curated list of related resources for information bottleneck.
 - <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
 - <a name=""></a> **(SIB)** Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
-- <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
+- <a name=""></a> **(CMIB)** Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
 
 
 ### 2019
