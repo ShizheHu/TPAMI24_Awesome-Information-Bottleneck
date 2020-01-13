@@ -21,7 +21,7 @@ Papers, codes, datasets, researchers on information bottleneck
 
 ### 2019
 
-- <a name=""></a> R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)]
+- <a name=""></a> **(DIM)**. R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)] [[code](https://github.com/rdevon/DIM)]
 
 - <a name=""></a> 	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
 
