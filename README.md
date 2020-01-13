@@ -69,7 +69,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 ### 2010
 
-- <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Zhengzheng Lou, Yangdong Ye, Dong Liu: Unsupervised object category discovery via information bottleneck method (**ACM MM**) [[paper](https://dl.acm.org/citation.cfm?id=1874098)]
+- <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen)Zhengzheng Lou, Yangdong Ye, Dong Liu: Unsupervised object category discovery via information bottleneck method (**ACM MM**) [[paper](https://dl.acm.org/citation.cfm?id=1874098)]
 
 ### 1999
 
