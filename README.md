@@ -1,11 +1,11 @@
 # Awesome-Information-Bottleneck
-Papers, codes, datasets, reseachers on information bottleneck
+Papers, codes, datasets, researchers on information bottleneck
 
 ## Contents
 * [Codes](#codes)
 * [Datasets](#datasets)
 * [Papers](#papers)
-* [Reseachers](#reseachers)
+* [Researchers](#researchers)
 
 
 ## Papers
@@ -18,6 +18,6 @@ Papers, codes, datasets, reseachers on information bottleneck
 - <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
 
 
-## Reseachers
+## Researchers
 * [Naftali Tishby](http://people.eecs.berkeley.edu/~cbfinn/), Hebrew University of Jerusalem
 * [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University
