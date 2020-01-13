@@ -16,18 +16,12 @@ A curated list of related resources for information bottleneck.
 
 ### arXiv Papers
 
-- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]<Br/>
- _Aleksander Wieczorek, Volker Roth_
+- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]
+_Aleksander Wieczorek, Volker Roth_
 
-- <a name=""></a> General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]<Br/>
-_Sayandev Mukherjee_
-
-- <a name=""></a> Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]<Br/>
-_Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende_
-
-- <a name=""></a> The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]<Br/>
-_Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund_
-
+- <a name=""></a> Sayandev Mukherjee: General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]
+- <a name=""></a> Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende: Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]
+- <a name=""></a> Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund: The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]
 - <a name=""></a> Yuxuan Song, Lantao Yu, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu: Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[paper](https://arxiv.org/abs/1911.09310)]
 - <a name=""></a> Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich: Learning Efficient Multi-agent Communication: An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.06992)]
 - <a name=""></a> Pei Yingjun, Hou Xinwen: Learning Representations in Reinforcement Learning:An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.05695)]
@@ -37,7 +31,7 @@ _Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund_
 ### 2020 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
-- <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
 - <a name=""></a> **(SIB)** Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
 - <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
