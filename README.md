@@ -47,7 +47,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 ### 2011
 
 - <a name=""></a> Yangdong Ye, Yongli Ren, Gang Li: Using local density information to improve IB algorithms (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865510003132)]
-- <a name=""></a> Huaqiang Yuan, Yangdong Ye: Iterative sIB algorithm (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865510003879)]
+- <a name=""></a> **(isIB)** Huaqiang Yuan, Yangdong Ye: Iterative sIB algorithm (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865510003879)]
 
 ### 2010
 
