@@ -23,7 +23,7 @@ A curated list of related resources for information bottleneck.
 - <a name=""></a> Junjie Li, Ding Liu: Information Bottleneck Methods on Convolutional Neural Networks [[paper](https://arxiv.org/abs/1911.03722)]
 - <a name=""></a> Sayandev Mukherjee: Machine Learning using the Variational Predictive Information Bottleneck with a Validation Set [[paper](https://arxiv.org/abs/1911.02210)]
 
-### 2020 [To top] (#Awesome-Information-Bottleneck)
+### 2020 [To top](#Awesome-Information-Bottleneck)
 
 - <a name=""></a> **[`Our lab's work`]** Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
 - <a name=""></a> Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
