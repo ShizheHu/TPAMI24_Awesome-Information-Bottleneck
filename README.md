@@ -16,17 +16,32 @@ A curated list of related resources for information bottleneck.
 
 ### arXiv Papers
 
-- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]
-_Aleksander Wieczorek, Volker Roth_
+- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]<Br/>
+ _Aleksander Wieczorek, Volker Roth_
 
-- <a name=""></a> Sayandev Mukherjee: General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]
-- <a name=""></a> Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende: Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]
-- <a name=""></a> Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund: The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]
-- <a name=""></a> Yuxuan Song, Lantao Yu, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu: Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[paper](https://arxiv.org/abs/1911.09310)]
-- <a name=""></a> Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich: Learning Efficient Multi-agent Communication: An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.06992)]
-- <a name=""></a> Pei Yingjun, Hou Xinwen: Learning Representations in Reinforcement Learning:An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.05695)]
-- <a name=""></a> Junjie Li, Ding Liu: Information Bottleneck Methods on Convolutional Neural Networks [[paper](https://arxiv.org/abs/1911.03722)]
-- <a name=""></a> Sayandev Mukherjee: Machine Learning using the Variational Predictive Information Bottleneck with a Validation Set [[paper](https://arxiv.org/abs/1911.02210)]
+- <a name=""></a> General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]<Br/>
+_Sayandev Mukherjee_
+
+- <a name=""></a> Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]<Br/>
+_Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende_
+
+- <a name=""></a> The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]<Br/
+_Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund_
+
+- <a name=""></a> Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[paper](https://arxiv.org/abs/1911.09310)]<Br/>
+_Yuxuan Song, Lantao Yu, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu_
+
+- <a name=""></a> Learning Efficient Multi-agent Communication: An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.06992)]<Br/>
+_Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich_
+
+- <a name=""></a> Learning Representations in Reinforcement Learning:An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.05695)]<Br/>
+_Pei Yingjun, Hou Xinwen_
+
+- <a name=""></a> Information Bottleneck Methods on Convolutional Neural Networks [[paper](https://arxiv.org/abs/1911.03722)]<Br/>
+_Junjie Li, Ding Liu_
+
+- <a name=""></a> Machine Learning using the Variational Predictive Information Bottleneck with a Validation Set [[paper](https://arxiv.org/abs/1911.02210)]<Br/>
+_Sayandev Mukherjee_
 
 ### 2020 
 
