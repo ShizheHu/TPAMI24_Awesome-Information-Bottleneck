@@ -4,12 +4,12 @@ A curated list of related resources for information bottleneck.
 
 ## Contents
 
-* [Papers](##Papers)
-* [Datasets](##Datasets)
-* [Researchers](##Researchers)
-* [Citing](##Citing)
-* [Contact](##Contact)
-* [License](##License)
+* [Papers](#pPapers)
+* [Datasets](#datasets)
+* [Researchers](#researchers)
+* [Citing](#citing)
+* [Contact](#contact)
+* [License](#license)
 
 
 ## Papers
