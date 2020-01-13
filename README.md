@@ -32,7 +32,7 @@ A curated list of related resources for information bottleneck.
 
 ### 2016
 
-- <a name=""></a> Xiaoqiang Yan, Yangdong Ye, Xueying Qiu: Unsupervised Human Action Categorization with Consensus Information Bottleneck Method (**IJCAI**) [[paper](http://www5.zzu.edu.cn/__local/E/A5/49/B9F810E13BAF2E8FD73C9315AF7_4BA2E9E2_EB090.pdf)]
+- <a name=""></a> **(CIB)** Xiaoqiang Yan, Yangdong Ye, Xueying Qiu: Unsupervised Human Action Categorization with Consensus Information Bottleneck Method (**IJCAI**) [[paper](http://www5.zzu.edu.cn/__local/E/A5/49/B9F810E13BAF2E8FD73C9315AF7_4BA2E9E2_EB090.pdf)]
 
 ### 2015
 
