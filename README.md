@@ -54,7 +54,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 ### 1999
 
-- <a name=""></a> Noam Slonim,Naftali Tishby: Noam Slonim，Naftali Tishby (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
+- <a name=""></a> Noam Slonim,Naftali Tishby: Agglomerative Information Bottleneck (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
 
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
