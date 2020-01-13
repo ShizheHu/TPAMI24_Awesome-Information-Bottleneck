@@ -16,12 +16,18 @@ A curated list of related resources for information bottleneck.
 
 ### arXiv Papers
 
-- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]
-_Aleksander Wieczorek, Volker Roth_
+- <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]<Br/>
+ _Aleksander Wieczorek, Volker Roth_
 
-- <a name=""></a> Sayandev Mukherjee: General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]
-- <a name=""></a> Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende: Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]
-- <a name=""></a> Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund: The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]
+- <a name=""></a> General Information Bottleneck Objectives and their Applications to Machine Learning [[paper](https://arxiv.org/abs/1912.06248)]<Br/>
+_Sayandev Mukherjee_
+
+- <a name=""></a> Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]<Br/>
+_Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende_
+
+- <a name=""></a> The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]<Br/>
+_Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund_
+
 - <a name=""></a> Yuxuan Song, Lantao Yu, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu: Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[paper](https://arxiv.org/abs/1911.09310)]
 - <a name=""></a> Rundong Wang, Xu He, Runsheng Yu, Wei Qiu, Bo An, Zinovi Rabinovich: Learning Efficient Multi-agent Communication: An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.06992)]
 - <a name=""></a> Pei Yingjun, Hou Xinwen: Learning Representations in Reinforcement Learning:An Information Bottleneck Approach [[paper](https://arxiv.org/abs/1911.05695)]
