@@ -61,6 +61,8 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Yiqiao Mao, Hui Yu: Shared-Private Information Bottleneck Method for Cross-Modal Clustering (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/document/8665990/)]
 
+- <a name=""></a> Syed Aizaz Ali Shah, Maximilian Stark, Gerhard Bauch: Coarsely Quantized Decoding and Construction of Polar Codes Using the Information Bottleneck Method (**Algorithms**) [[paper](https://www.mdpi.com/1999-4893/12/9/192)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
