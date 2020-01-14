@@ -101,6 +101,12 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Qi Wang, Claire Boudreau, Qixing Luo, Pang-Ning Tan, Jiayu Zhou: Deep Multi-view Information Bottleneck (**SDM**) [[paper](https://epubs.siam.org/doi/10.1137/1.9781611975673.5)]
 
+- <a name=""></a> Tailin Wu, Ian Fischer, Isaac L. Chuang, Max Tegmark: Learnability for the Information Bottleneck (**UAI**) [[paper](http://auai.org/uai2019/proceedings/papers/380.pdf)]
+
+- <a name=""></a> Liwen Wang, Takumi Takahashi, Shinsuke Ibi, Seiichi Sampei: A Study on Replica Generation Using LUT Based on Information Bottleneck for MF-GaBP in Massive MIMO Detection (**VTC-Fall**) [[paper](https://ieeexplore.ieee.org/document/8891317)]
+
+- <a name=""></a> Steffen Steiner, Volker Kuehn: Optimization Of Distributed Quantizers Using An Alternating Information Bottleneck Approach (**WSA**) [[paper](https://ieeexplore.ieee.org/document/8727227)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
