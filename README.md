@@ -139,6 +139,14 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Shayan Hassanpour, Dirk Wübben, Armin Dekorsy: A Graph-Based Message Passing Approach for Joint Source-Channel Coding via Information Bottleneck Principle (**ISTC**) [[paper](https://ieeexplore.ieee.org/document/8625338/)]
 
+- <a name=""></a> Jan Lewandowsky, Maximilian Stark, Gerhard Bauch: A Discrete Information Bottleneck Receiver with Iterative Decision Feedback Channel Estimation (**ISTC**) [[paper](https://ieeexplore.ieee.org/document/8625342/)]
+
+- <a name=""></a> Duo Xu, Faramarz Fekri: Time Series Prediction Via Recurrent Neural Networks with the Information Bottleneck Principle (**SPAWC**) [[paper](https://ieeexplore.ieee.org/document/8445943/)]
+
+- <a name=""></a> Shayan Hassanpour, Dirk Wübben, Armin Dekorsy: On the equivalence of double maxima and KL-means for information bottleneck-based source coding (**WCNC**) [[paper](https://ieeexplore.ieee.org/document/8377199/)]
+
+- <a name=""></a> Maximilian Stark, Syed Aizaz Ali Shah, Gerhard Bauch: Polar code construction using the information bottleneck method (**WCNC Workshops**) [[paper](https://ieeexplore.ieee.org/document/8368978/)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
