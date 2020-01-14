@@ -85,6 +85,14 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Jacob Goldberger, Yaniv Opochinsky: Information-bottleneck Based on the Jensen-shannon Divergence with Applications to Pairwise Clustering (**ICASSP**) [[paper](https://ieeexplore.ieee.org/document/8683613/)]
 
+- <a name=""></a> Maximilian Stark, Gerhard Bauch, Jan Lewandowsky, Souradip Saha: Decoding of Non-Binary LDPC Codes using the Information Bottleneck Method (**ICC**) [[paper](https://ieeexplore.ieee.org/document/8761712/)]
+
+- <a name=""></a> Anirudh Goyal, Riashat Islam, Daniel Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine: InfoBot: Transfer and Exploration via the Information Bottleneck (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=rJg8yhAqKm)]
+
+- <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, Steven Van Kuyk: Caveats for information bottleneck in deterministic scenarios (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=rke4HiAcY7)]
+
+- <a name=""></a> Xue Bin Peng, Angjoo Kanazawa, Sam Toyer, Pieter Abbeel, Sergey Levine: Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=HyxPx3R9tm)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
