@@ -67,6 +67,8 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, David H. Wolpert: Nonlinear Information Bottleneck (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/12/1181)]
 
+- <a name=""></a> Tailin Wu, Ian Fischer, Isaac L. Chuang, Max Tegmark: Learnability for the Information Bottleneck (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/924)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
