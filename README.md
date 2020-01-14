@@ -121,6 +121,16 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Xianjun Xia, Roberto Togneri, Ferdous Ahmed Sohel, David Huang: Random forest classification based acoustic event detection utilizing contextual-information and bottleneck features (**Pattern Recognition**) [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0031320318301158)]
 
+- <a name=""></a> Shyju Wilson, C. Krishna Mohan: An Information Bottleneck Approach to Optimize the Dictionary of Visual Data (**IEEE Trans. Multimedia**) [[paper](https://ieeexplore.ieee.org/document/7950974/)]
+
+- <a name=""></a> Parinaz Farajiparvar, Ahmad Beirami, Matthew S. Nokleby: Information Bottleneck Methods for Distributed Learning (**Allerton**) [[paper](https://ieeexplore.ieee.org/document/8635884/)]
+
+- <a name=""></a> Shayan Hassanpour, Dirk Wübben, Armin Dekorsy: A Graph-Based Message Passing Approach for Noisy Source Coding via Information Bottleneck Principle (**GLOBECOM**) [[paper](https://ieeexplore.ieee.org/document/8647224/)]
+
+- <a name=""></a> Andrew M. Saxe, Yamini Bansal, Joel Dapello, Madhu Advani, Artemy Kolchinsky, Brendan D. Tracey, David Daniel Cox: On the Information Bottleneck Theory of Deep Learning (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=ry_WPG-A-)]
+
+- <a name=""></a> Aleksander Wieczorek, Mario Wieser, Damian Murezzan, Volker Roth: Learning Sparse Latent Representations with the Deep Copula Information Bottleneck (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=Hk0wHx-RW)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
