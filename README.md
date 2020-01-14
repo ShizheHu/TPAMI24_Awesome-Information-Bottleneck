@@ -117,6 +117,10 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Jacek Iwanski, Grazyna Suchacka, Grzegorz Chodak: Application of the Information Bottleneck method to discover user profiles in a Web store (**J. Org. Computing and E. Commerce**) [[paper](https://www.tandfonline.com/doi/abs/10.1080/10919392.2018.1444340?journalCode=hoce20)]
 
+- <a name=""></a> Dariusz Kalocinski, Marcin Mostowski, Nina Gierasimczuk: Interactive Semantic Alignment Model: Social Influence and Local Transmission Bottleneck (**Journal of Logic, Language and Information**) [[paper](https://link.springer.com/article/10.1007%2Fs10849-018-9267-5)]
+
+- <a name=""></a> Xianjun Xia, Roberto Togneri, Ferdous Ahmed Sohel, David Huang: Random forest classification based acoustic event detection utilizing contextual-information and bottleneck features (**Pattern Recognition**) [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0031320318301158)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
