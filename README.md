@@ -71,6 +71,8 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Jan Lewandowsky, Gerhard Bauch, Matthias Tschauner, Peter Oppermann: Design and Evaluation of Information Bottleneck LDPC Decoders for Digital Signal Processors (**IEICE Transactions**) [[paper](https://search.ieice.org/bin/summary.php?id=e102-b_8_1363)]
 
+- <a name=""></a> DJ Strouse, David J. Schwab: The Information Bottleneck and Geometric Clustering (**Neural Computation**) [[paper](https://www.mitpressjournals.org/doi/10.1162/neco_a_01136)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
