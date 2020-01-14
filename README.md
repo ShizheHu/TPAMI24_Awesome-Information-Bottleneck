@@ -111,6 +111,12 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Jan Lewandowsky, Gerhard Bauch: Information-Optimum LDPC Decoders Based on the Information Bottleneck Method (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/document/8268118/)]
 
+- <a name=""></a> Yuejun Guo, Qing Xu, Mateu Sbert: IBVis: Interactive Visual Analytics for Information Bottleneck Based Trajectory Clustering (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/20/3/159)]
+
+- <a name=""></a> S. Y. Kung: A Compressive Privacy approach to Generalized Information Bottleneck and Privacy Funnel problems (**J. Franklin Institute**) [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0016003217303162)]
+
+- <a name=""></a> Jacek Iwanski, Grazyna Suchacka, Grzegorz Chodak: Application of the Information Bottleneck method to discover user profiles in a Web store (**J. Org. Computing and E. Commerce**) [[paper](https://www.tandfonline.com/doi/abs/10.1080/10919392.2018.1444340?journalCode=hoce20)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
