@@ -77,6 +77,12 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Farhang Bayat, Shuangqing Wei: Information Bottleneck Problem Revisited (**Allerton**) [[paper](https://ieeexplore.ieee.org/document/8919752/)]
 
+- <a name=""></a> Xiang Lisa Li, Jason Eisner: Specializing Word Embeddings (for Parsing) by Information Bottleneck (**EMNLP/IJCNLP**) [[paper](https://www.aclweb.org/anthology/D19-1276/)]
+
+- <a name=""></a> Peter West, Ari Holtzman, Jan Buys, Yejin Choi: BottleSum: Unsupervised and Self-supervised Sentence Summarization using the Information Bottleneck Principle (**EMNLP/IJCNLP**) [[paper](https://www.aclweb.org/anthology/D19-1389/)]
+
+- <a name=""></a> Nauman Dawalatabad, Srikanth R. Madikeri, C. Chandra Sekhar, Hema A. Murthy: Incremental Transfer Learning in Two-pass Information Bottleneck Based Speaker Diarization System for Meetings (**ICASSP**) [[paper](https://ieeexplore.ieee.org/document/8683114)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
