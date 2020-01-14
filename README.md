@@ -75,6 +75,8 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Matías Vera, Leonardo Rey Vega, Pablo Piantanida: Collaborative Information Bottleneck (**IEEE Trans. Information Theory**) [[paper](https://ieeexplore.ieee.org/document/8543840/)]
 
+- <a name=""></a> Farhang Bayat, Shuangqing Wei: Information Bottleneck Problem Revisited (**Allerton**) [[paper](https://ieeexplore.ieee.org/document/8919752/)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
