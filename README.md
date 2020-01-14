@@ -65,6 +65,8 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Hao Cheng, Dongze Lian, Shenghua Gao, Yanlin Geng: Utilizing Information Bottleneck to Evaluate the Capability of Deep Neural Networks for Image Classification (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/5/456)]
 
+- <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, David H. Wolpert: Nonlinear Information Bottleneck (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/12/1181)]
+
 ### 2017 
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Shizhe Hu, Yangdong Ye: Multi-task Clustering of Human Actions by Sharing Information (**IEEE CVPR**) [[paper](http://openaccess.thecvf.com/content_cvpr_2017/html/Yan_Multi-Task_Clustering_of_CVPR_2017_paper.html)]
