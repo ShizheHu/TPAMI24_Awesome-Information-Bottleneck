@@ -57,7 +57,9 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> **(DIM)** R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)] [[code](https://github.com/rdevon/DIM)]
 
-- <a name=""></a> 	Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
+- <a name=""></a> Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
+
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Yiqiao Mao, Hui Yu: Shared-Private Information Bottleneck Method for Cross-Modal Clustering (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/document/8665990/)]
 
 ### 2017 
 
