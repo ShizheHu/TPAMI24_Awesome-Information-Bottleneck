@@ -91,8 +91,6 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, Steven Van Kuyk: Caveats for information bottleneck in deterministic scenarios (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=rke4HiAcY7)]
 
-- <a name=""></a> Xue Bin Peng, Angjoo Kanazawa, Sam Toyer, Pieter Abbeel, Sergey Levine: Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=HyxPx3R9tm)]
-
 - <a name=""></a> Vincent Pacelli, Anirudha Majumdar: Task-Driven Estimation and Control via Information Bottlenecks (**ICRA**) [[paper](https://ieeexplore.ieee.org/document/8794213/)]
 
 - <a name=""></a> Nilanjana Datta, Christoph Hirche, Andreas J. Winter: Convexity and Operational Interpretation of the Quantum Information Bottleneck Function (**ISIT**) [[paper](https://ieeexplore.ieee.org/document/8849518/)]
@@ -117,10 +115,6 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Jacek Iwanski, Grazyna Suchacka, Grzegorz Chodak: Application of the Information Bottleneck method to discover user profiles in a Web store (**J. Org. Computing and E. Commerce**) [[paper](https://www.tandfonline.com/doi/abs/10.1080/10919392.2018.1444340?journalCode=hoce20)]
 
-- <a name=""></a> Dariusz Kalocinski, Marcin Mostowski, Nina Gierasimczuk: Interactive Semantic Alignment Model: Social Influence and Local Transmission Bottleneck (**Journal of Logic, Language and Information**) [[paper](https://link.springer.com/article/10.1007%2Fs10849-018-9267-5)]
-
-- <a name=""></a> Xianjun Xia, Roberto Togneri, Ferdous Ahmed Sohel, David Huang: Random forest classification based acoustic event detection utilizing contextual-information and bottleneck features (**Pattern Recognition**) [[paper](https://linkinghub.elsevier.com/retrieve/pii/S0031320318301158)]
-
 - <a name=""></a> Shyju Wilson, C. Krishna Mohan: An Information Bottleneck Approach to Optimize the Dictionary of Visual Data (**IEEE Trans. Multimedia**) [[paper](https://ieeexplore.ieee.org/document/7950974/)]
 
 - <a name=""></a> Parinaz Farajiparvar, Ahmad Beirami, Matthew S. Nokleby: Information Bottleneck Methods for Distributed Learning (**Allerton**) [[paper](https://ieeexplore.ieee.org/document/8635884/)]
@@ -130,6 +124,20 @@ _Sayandev Mukherjee_
 - <a name=""></a> Andrew M. Saxe, Yamini Bansal, Joel Dapello, Madhu Advani, Artemy Kolchinsky, Brendan D. Tracey, David Daniel Cox: On the Information Bottleneck Theory of Deep Learning (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=ry_WPG-A-)]
 
 - <a name=""></a> Aleksander Wieczorek, Mario Wieser, Damian Murezzan, Volker Roth: Learning Sparse Latent Representations with the Deep Copula Information Bottleneck (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=Hk0wHx-RW)]
+
+- <a name=""></a> Bin Dai, Chen Zhu, Baining Guo, David P. Wipf: Compressing Neural Networks using the Variational Information Bottleneck (**ICML**) [[paper](http://proceedings.mlr.press/v80/dai18d.html)]
+
+- <a name=""></a> Jan Lewandowsky, Gerhard Bauch, Matthias Tschauner, Peter Oppermann: Design and Evaluation of Information Bottleneck LDPC Decoders for Software Defined Radios (**ICSPCS**) [[paper](https://ieeexplore.ieee.org/document/8631719/)]
+
+- <a name=""></a> Shayan Hassanpour, Dirk Wübben, Armin Dekorsy: On the Equivalence of Two Information Bottleneck-Based Routines Devised for Joint Source-Channel Coding (**ICT**) [[paper](https://ieeexplore.ieee.org/document/8464844/)]
+
+- <a name=""></a> Nauman Dawalatabad, Jom Kuriakose, Chellu Chandra Sekhar, Hema A. Murthy: Information Bottleneck Based Percussion Instrument Diarization System for Taniavartanam Segments of Carnatic Music Concerts (**INTERSPEECH**) [[paper](https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1203.html)]
+
+- <a name=""></a> Georg Pichler, Günther Koliander: Information Bottleneck on General Alphabets (**ISIT**) [[paper](https://ieeexplore.ieee.org/document/8437714/)]
+
+- <a name=""></a> Matías Vera, Pablo Piantanida, Leonardo Rey Vega: The Role of the Information Bottleneck in Representation Learning (**ISIT**) [[paper](https://ieeexplore.ieee.org/document/8437679/)]
+
+- <a name=""></a> Shayan Hassanpour, Dirk Wübben, Armin Dekorsy: A Graph-Based Message Passing Approach for Joint Source-Channel Coding via Information Bottleneck Principle (**ISTC**) [[paper](https://ieeexplore.ieee.org/document/8625338/)]
 
 ### 2017 
 
