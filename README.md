@@ -25,7 +25,7 @@ _Sayandev Mukherjee_
 - <a name=""></a> Information bottleneck through variational glasses [[paper](https://arxiv.org/abs/1912.00830)]<Br/>
 _Slava Voloshynovskiy, Mouad Kondah, Shideh Rezaeifar, Olga Taran, Taras Holotyak, Danilo Jimenez Rezende_
 
-- <a name=""></a> The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]<Br/
+- <a name=""></a> The Convex Information Bottleneck Lagrangian [[paper](https://arxiv.org/abs/1911.11000)]<Br/>
 _Borja Rodríguez Gálvez, Ragnar Thobaben, Mikael Skoglund_
 
 - <a name=""></a> Improving Unsupervised Domain Adaptation with Variational Information Bottleneck [[paper](https://arxiv.org/abs/1911.09310)]<Br/>
