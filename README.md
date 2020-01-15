@@ -50,6 +50,7 @@ _Sayandev Mukherjee_
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yiqiao Mao, Shizhe Hu, Yangdong Ye: Heterogeneous Dual-Task Clustering with Visual-Textual Information (**SDM**) [[paper]()]
 - <a name=""></a> Tailin Wu, Ian Fischer: Phase Transitions for the Information Bottleneck in Representation Learning (**ICLR**) [[paper](https://arxiv.org/abs/2001.01878)]
 - <a name=""></a> Karl Schulz, Leon Sixt, Federico Tombari, Tim Landgraf: Restricting the Flow: Information Bottlenecks for Attribution (**ICLR**) [[paper](https://arxiv.org/abs/2001.00396)]
 
