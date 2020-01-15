@@ -89,7 +89,7 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Anirudh Goyal, Riashat Islam, Daniel Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine: InfoBot: Transfer and Exploration via the Information Bottleneck (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=rJg8yhAqKm)]
 
-- <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, Steven Van Kuyk: Caveats for information bottleneck in deterministic scenarios (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=rke4HiAcY7)]
+- <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, Steven Van Kuyk: Caveats for information bottleneck in deterministic scenarios (**ICLR**) [[paper](https://openreview.net/forum?id=rke4HiAcY7)]
 
 - <a name=""></a> Vincent Pacelli, Anirudha Majumdar: Task-Driven Estimation and Control via Information Bottlenecks (**ICRA**) [[paper](https://ieeexplore.ieee.org/document/8794213/)]
 
@@ -121,9 +121,9 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Shayan Hassanpour, Dirk Wübben, Armin Dekorsy: A Graph-Based Message Passing Approach for Noisy Source Coding via Information Bottleneck Principle (**GLOBECOM**) [[paper](https://ieeexplore.ieee.org/document/8647224/)]
 
-- <a name=""></a> Andrew M. Saxe, Yamini Bansal, Joel Dapello, Madhu Advani, Artemy Kolchinsky, Brendan D. Tracey, David Daniel Cox: On the Information Bottleneck Theory of Deep Learning (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=ry_WPG-A-)]
+- <a name=""></a> Andrew M. Saxe, Yamini Bansal, Joel Dapello, Madhu Advani, Artemy Kolchinsky, Brendan D. Tracey, David Daniel Cox: On the Information Bottleneck Theory of Deep Learning (**ICLR**) [[paper](https://openreview.net/forum?id=ry_WPG-A-)]
 
-- <a name=""></a> Aleksander Wieczorek, Mario Wieser, Damian Murezzan, Volker Roth: Learning Sparse Latent Representations with the Deep Copula Information Bottleneck (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=Hk0wHx-RW)]
+- <a name=""></a> Aleksander Wieczorek, Mario Wieser, Damian Murezzan, Volker Roth: Learning Sparse Latent Representations with the Deep Copula Information Bottleneck (**ICLR**) [[paper](https://openreview.net/forum?id=Hk0wHx-RW)]
 
 - <a name=""></a> Bin Dai, Chen Zhu, Baining Guo, David P. Wipf: Compressing Neural Networks using the Variational Information Bottleneck (**ICML**) [[paper](http://proceedings.mlr.press/v80/dai18d.html)]
 
