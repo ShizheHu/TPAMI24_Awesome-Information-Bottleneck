@@ -159,6 +159,7 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Zhengzheng Lou: Unsupervised video categorization based on multivariate information bottleneck method (**Knowl.-Based Syst.**) [[paper](https://www.sciencedirect.com/science/article/pii/S095070511500132X)]
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yangdong Ye, Ruina Liu, Zhengzheng Lou: Incorporating side information into multivariate Information Bottleneck for generating alternative clusterings (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865514002530)]
+- <a name=""></a> Naftali Tishby, Noga Zaslavsky: Deep learning and the information bottleneck principle (**IEEE ITW**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/7133169)]
 
 ### 2013
 
@@ -174,9 +175,21 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Zhengzheng Lou, Yangdong Ye, Dong Liu: Unsupervised object category discovery via information bottleneck method (**ACM MM**) [[paper](https://dl.acm.org/citation.cfm?id=1874098)]
 
-### 1999
+### 2006
 
-- <a name=""></a> Noam Slonim,Naftali Tishby: Noam Slonim，Naftali Tishby (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
+- <a name=""></a> Winston H. Hsu, Lyndon S. Kennedy, Shih-Fu Chang: Video search reranking via information bottleneck principle (**ACM MM**) [[paper](https://dlacm.xilesou.top/doi/10.1145/1180639.1180654)]
+- <a name=""></a> Noam Slonim, Nir Friedman, Naftali Tishby: Multivariate information bottleneck (**Neural computation**) [[paper](https://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.2006.18.8.1739)]
+
+
+
+### 2001
+
+- <a name=""></a> Naftali Tishby, Noam Slonim: Data clustering by markovian relaxation and the information bottleneck method (**NIPS**) [[paper](http://papers.nips.cc/paper/1896-data-clustering-by-markovian-relaxation-and-the-information-bottleneck-method.pdf)]
+
+### 2000
+
+- <a name=""></a> Noam Slonim, Naftali Tishby: Document clustering using word clusters via the information bottleneck method (**ACM SIGIR**) [[paper](http://ftp.cse.buffalo.edu/users/azhang/disc/disc01/cd1/out/papers/sigir/p208-slonim.pdf)]
+- <a name=""></a> Noam Slonim, Naftali Tishby: Agglomerative information bottleneck (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
 
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
