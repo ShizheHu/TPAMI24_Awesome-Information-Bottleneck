@@ -88,7 +88,7 @@ _Sayandev Mukherjee_
 
 - <a name=""></a> Maximilian Stark, Gerhard Bauch, Jan Lewandowsky, Souradip Saha: Decoding of Non-Binary LDPC Codes using the Information Bottleneck Method (**ICC**) [[paper](https://ieeexplore.ieee.org/document/8761712/)]
 
-- <a name=""></a> Anirudh Goyal, Riashat Islam, Daniel Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine: InfoBot: Transfer and Exploration via the Information Bottleneck (**ICLR (Poster)**) [[paper](https://openreview.net/forum?id=rJg8yhAqKm)]
+- <a name=""></a> Anirudh Goyal, Riashat Islam, Daniel Strouse, Zafarali Ahmed, Hugo Larochelle, Matthew Botvinick, Yoshua Bengio, Sergey Levine: InfoBot: Transfer and Exploration via the Information Bottleneck (**ICLR**) [[paper](https://openreview.net/forum?id=rJg8yhAqKm)]
 
 - <a name=""></a> Artemy Kolchinsky, Brendan D. Tracey, Steven Van Kuyk: Caveats for information bottleneck in deterministic scenarios (**ICLR**) [[paper](https://openreview.net/forum?id=rke4HiAcY7)]
 
