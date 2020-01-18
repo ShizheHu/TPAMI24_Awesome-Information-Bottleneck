@@ -176,12 +176,24 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 - <a name=""></a> ![](https://img.shields.io/badge/Conference-Our%20lab's%20work-brightgreen) Zhengzheng Lou, Yangdong Ye, Dong Liu: Unsupervised object category discovery via information bottleneck method (**ACM MM**) [[paper](https://dl.acm.org/citation.cfm?id=1874098)]
 
+### 2008
+
+- <a name=""></a> Yongli Ren , Yangdong Ye , Gang Li : The density connectivity information bottleneck (**ICYCS **) [[paper]( https://dl.acm.org/doi/10.1109/ICYCS.2008.275)]
+- <a name=""></a> Brian Fulkerson，Andrea Vedaldi，Stefano Soatto: Localizing objects with smart dictionaries (**ECCV**) [[paper]( https://link.springer.com/chapter/10.1007/978-3-540-88682-2_15)]
+- <a name=""></a> Yongli Ren, Yangdong Ye, Gang Li: The Density-Based Agglomerative Information Bottleneck (**PRICAI**) [[paper]( https://link.springer.com/chapter/10.1007%2F978-3-540-89197-0_32)]
+- <a name=""></a> Lei Wang, Jianjia Zhang, Luping Zhou: A Fast Approximate AIB Algorithm for Distributional Word Clustering (**CVPR**) [[paper]( https://www.computer.org/csdl/csdl/proceedings/cvpr/2013/4990/00/4989a556-abs.html)]
+
 ### 2006
 
 - <a name=""></a> Winston H. Hsu, Lyndon S. Kennedy, Shih-Fu Chang: Video search reranking via information bottleneck principle (**ACM MM**) [[paper](https://dlacm.xilesou.top/doi/10.1145/1180639.1180654)]
 - <a name=""></a> Noam Slonim, Nir Friedman, Naftali Tishby: Multivariate information bottleneck (**Neural computation**) [[paper](https://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.2006.18.8.1739)]
 
+### 2005
+- <a name=""></a> Chechik, Gal, Globerson, Amir, Tishby, Naftali, Weiss, Yair: Information bottleneck for Gaussian variables (**JMLR**) [[paper]( https://mathscinet.ams.org/mathscinet-getitem?mr=2249818)]
 
+### 2002
+
+- <a name=""></a> Noam Slonim, Nir Friedman, Naftali Tishby: Unsupervised Document Classification Using Sequential Information Maximization (**SIGIR**) [[paper]( http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.20.136)]
 
 ### 2001
 
@@ -191,6 +203,11 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 - <a name=""></a> Noam Slonim, Naftali Tishby: Document clustering using word clusters via the information bottleneck method (**ACM SIGIR**) [[paper](http://ftp.cse.buffalo.edu/users/azhang/disc/disc01/cd1/out/papers/sigir/p208-slonim.pdf)]
 - <a name=""></a> Noam Slonim, Naftali Tishby: Agglomerative information bottleneck (**NIPS**) [[paper](http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck.pdf)]
+
+### 1999
+
+- <a name=""></a> Noam Slonim,Naftali Tishby: Agglomerative Information Bottleneck (**NIPS**) [[paper]( http://papers.nips.cc/paper/1651-agglomerative-information-bottleneck)]
+
 
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
