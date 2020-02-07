@@ -178,7 +178,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 
 ### 2008
 
-- <a name=""></a>![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yongli Ren , Yangdong Ye , Gang Li : The density connectivity information bottleneck (**ICYCS **) [[paper]( https://dl.acm.org/doi/10.1109/ICYCS.2008.275)]
+- <a name=""></a>![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yongli Ren , Yangdong Ye , Gang Li : The density connectivity information bottleneck (**ICYCS**) [[paper]( https://dl.acm.org/doi/10.1109/ICYCS.2008.275)]
 - <a name=""></a> Brian Fulkerson，Andrea Vedaldi，Stefano Soatto: Localizing objects with smart dictionaries (**ECCV**) [[paper]( https://link.springer.com/chapter/10.1007/978-3-540-88682-2_15)]
 - <a name=""></a>![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yongli Ren, Yangdong Ye, Gang Li: The Density-Based Agglomerative Information Bottleneck (**PRICAI**) [[paper]( https://link.springer.com/chapter/10.1007%2F978-3-540-89197-0_32)]
 - <a name=""></a> Lei Wang, Jianjia Zhang, Luping Zhou: A Fast Approximate AIB Algorithm for Distributional Word Clustering (**CVPR**) [[paper]( https://www.computer.org/csdl/csdl/proceedings/cvpr/2013/4990/00/4989a556-abs.html)]
