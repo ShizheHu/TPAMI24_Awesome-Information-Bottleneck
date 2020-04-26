@@ -213,6 +213,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 ## Researchers
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
 * [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University, Zhengzhou, China. 
+* [Qing Xu](http://cic.tju.edu.cn/faculty/xuqing/pages/index.html), Tianjin University, Tianjin, China. 
 
 ## Citing
 
