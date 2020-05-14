@@ -51,13 +51,14 @@ _Sayandev Mukherjee_
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
-- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yiqiao Mao, Shizhe Hu, Yangdong Ye: Heterogeneous Dual-Task Clustering with Visual-Textual Information (**SDM**) [[paper]()]
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yiqiao Mao, Shizhe Hu, Yangdong Ye: Heterogeneous Dual-Task Clustering with Visual-Textual Information (**SDM**) [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.74)]
 - <a name=""></a> Tailin Wu, Ian Fischer: Phase Transitions for the Information Bottleneck in Representation Learning (**ICLR**) [[paper](https://arxiv.org/abs/2001.01878)]
 - <a name=""></a> Karl Schulz, Leon Sixt, Federico Tombari, Tim Landgraf: Restricting the Flow: Information Bottlenecks for Attribution (**ICLR**) [[paper](https://arxiv.org/abs/2001.00396)]
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Zhenquan Hou, Zhengzheng Lou, Yangdong Ye: Content VS Context: How about "Walking Hand-In-Hand" for Image Clustering (**ICASSP**) [[paper](https://ieeexplore.ieee.org/document/9053806)]
 
 ### 2019 
 
-- <a name=""></a> **(DIM)** R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)] [[code](https://github.com/rdevon/DIM)]
+- <a name=""></a> R Devon Hjelm, Alex Fedorov, Samuel Lavoie-Marchildon, Karan Grewal, Phil Bachman, Adam Trischler, Yoshua Bengio: Learning deep representations by mutual information estimation and maximization (**ICLR**) [[paper](https://openreview.net/pdf?id=Bklr3j0cKX)] [[code](https://github.com/rdevon/DIM)]
 
 - <a name=""></a> Thanh T. Nguyen, Jaesik Choi: Markov Information Bottleneck to Improve Information Flow in Stochastic Neural Networks (**Entropy**) [[paper](https://www.mdpi.com/1099-4300/21/10/976)]
 
