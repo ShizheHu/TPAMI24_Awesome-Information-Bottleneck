@@ -16,6 +16,18 @@ A curated list of related resources for information bottleneck.
 
 ### arXiv Papers
 
+- <a name=""></a> Quadratic Privacy-Signaling Games, Payoff Dominant Equilibria and the Information Bottleneck Problem [[paper](https://arxiv.org/abs/2005.05743)]<Br/>
+ _AErtan Kazıklı, Sinan Gezici, Serdar Yüksel_
+ 
+- <a name=""></a> An Information Bottleneck Approach for Controlling Conciseness in Rationale Extraction [[paper](https://arxiv.org/abs/2005.00652)]<Br/>
+ _Bhargavi Paranjape, Mandar Joshi, John Thickstun, Hannaneh Hajishirzi, Luke Zettlemoyer_
+ 
+ - <a name=""></a> The Information Bottleneck Problem and Its Applications in Machine Learning [[paper](https://arxiv.org/abs/2004.14941)]<Br/>
+ _Ziv Goldfeld, Yury Polyanskiy_
+ 
+ - <a name=""></a> Broadcast Approach for the Information Bottleneck Channel [[paper](https://arxiv.org/abs/2004.14464)]<Br/>
+ _Avi Steiner, Shlomo Shamai_
+ 
 - <a name=""></a> On the Difference Between the Information Bottleneck and the Deep Information Bottleneck [[paper](https://arxiv.org/abs/1912.13480)]<Br/>
  _Aleksander Wieczorek, Volker Roth_
 
