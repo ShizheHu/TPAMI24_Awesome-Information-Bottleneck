@@ -16,6 +16,21 @@ A curated list of related resources for information bottleneck.
 
 ### arXiv Papers
 
+- <a name=""></a> Variational Information Bottleneck Model for Accurate Indoor Position Recognition [[paper](https://arxiv.org/abs/2101.10655)]<Br/>
+ _Weizhu Qian, Franck Gechter_
+ 
+ - <a name=""></a> Information Bottleneck for an Oblivious Relay with Channel State Information: the Vector Case [[paper](https://arxiv.org/abs/2101.09790)]<Br/>
+ _Hao Xu, Tianyu Yang, Giuseppe Caire, Shlomo Shamai_
+ 
+ - <a name=""></a> Disentangled Information Bottleneck [[paper](https://arxiv.org/abs/2012.07372)]<Br/>
+ _Ziqi Pan, Li Niu, Jianfu Zhang, Liqing Zhang_
+ 
+- <a name=""></a> State Predictive Information Bottleneck [[paper](https://arxiv.org/abs/2011.10127)]<Br/>
+ _Dedi Wang, Pratyush Tiwary_
+ 
+ - <a name=""></a> On the Relevance-Complexity Region of Scalable Information Bottleneck [[paper](https://arxiv.org/abs/2011.01352)]<Br/>
+ _Mohammad Mahdi Mahvari, Mari Kobayashi, Abdellatif Zaidi_
+ 
 - <a name=""></a> Quadratic Privacy-Signaling Games, Payoff Dominant Equilibria and the Information Bottleneck Problem [[paper](https://arxiv.org/abs/2005.05743)]<Br/>
  _AErtan Kazıklı, Sinan Gezici, Serdar Yüksel_
  
@@ -57,15 +72,30 @@ _Sayandev Mukherjee_
 
 ### 2020 
 
+- <a name=""></a> Tailin Wu, Hongyu Ren, Pan Li, Jure Leskovec: Graph Information Bottleneck (**NeurIPS**) [[paper](https://arxiv.org/abs/2010.12811)]
+
+- <a name=""></a> Zhiying Jiang, Raphael Tang, Ji Xin, Jimmy Lin: Inserting Information Bottlenecks for Attribution in Transformers (**EMNLP**) [[paper](https://arxiv.org/abs/2012.13838)]
+
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Zenglin Shi, and Yangdong Ye: DMIB: Dual-correlated Multivariate Information Bottleneck for Multi-view Clustering (**IEEE TCYB**) [[paper](https://ieeexplore.ieee.org/document/9234635)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Joint Specific and Correlated Information Exploration for Multi-view Action Clustering (**Information Sciences**) [[paper](https://www.sciencedirect.com/science/article/pii/S0020025520302061)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Dynamic Auto-weighted Multi-view Co-clustering (**Pattern Recognition**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319304029)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Xiaoqiang Yan, Yangdong Ye: Multi-task Image Clustering through Correlation Propagation (**IEEE TKDE**) [[paper](https://ieeexplore.ieee.org/document/8812907)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Hui Yu: Synergetic information bottleneck for joint multi-view and ensemble clustering (**Information Fusion**) [[paper](https://www.sciencedirect.com/science/article/pii/S1566253518303956)]
-- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper]()]
+
+- <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Zhengzheng Lou, Shizhe Hu, Yangdong Ye: Multi-task information bottleneck co-clustering for unsupervised cross-view human action categorization (**ACM TKDD**) [[paper](https://dl.acm.org/doi/abs/10.1145/3375394)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Xueying Qiu, Milos Manic, Hui Yu: CMIB:Unsupervised Image Object Categorization in Multiple Visual Contexts (**IEEE TII**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/8823028)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yiqiao Mao, Shizhe Hu, Yangdong Ye: Heterogeneous Dual-Task Clustering with Visual-Textual Information (**SDM**) [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611976236.74)]
+
 - <a name=""></a> Tailin Wu, Ian Fischer: Phase Transitions for the Information Bottleneck in Representation Learning (**ICLR**) [[paper](https://arxiv.org/abs/2001.01878)]
+
 - <a name=""></a> Karl Schulz, Leon Sixt, Federico Tombari, Tim Landgraf: Restricting the Flow: Information Bottlenecks for Attribution (**ICLR**) [[paper](https://arxiv.org/abs/2001.00396)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Shizhe Hu, Zhenquan Hou, Zhengzheng Lou, Yangdong Ye: Content VS Context: How about "Walking Hand-In-Hand" for Image Clustering (**ICASSP**) [[paper](https://ieeexplore.ieee.org/document/9053806)]
 
 ### 2019 
@@ -173,7 +203,9 @@ _Sayandev Mukherjee_
 ### 2015
 
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Xiaoqiang Yan, Yangdong Ye, Zhengzheng Lou: Unsupervised video categorization based on multivariate information bottleneck method (**Knowl.-Based Syst.**) [[paper](https://www.sciencedirect.com/science/article/pii/S095070511500132X)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yangdong Ye, Ruina Liu, Zhengzheng Lou: Incorporating side information into multivariate Information Bottleneck for generating alternative clusterings (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865514002530)]
+
 - <a name=""></a> Naftali Tishby, Noga Zaslavsky: Deep learning and the information bottleneck principle (**IEEE ITW**) [[paper](https://ieeexplore.ieee.xilesou.top/abstract/document/7133169)]
 
 ### 2013
@@ -184,6 +216,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 ### 2011
 
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yangdong Ye, Yongli Ren, Gang Li: Using local density information to improve IB algorithms (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865510003132)]
+
 - <a name=""></a> ![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Huaqiang Yuan, Yangdong Ye: Iterative sIB algorithm (**Pattern Recognition Letters**) [[paper](https://www.sciencedirect.com/science/article/pii/S0167865510003879)]
 
 ### 2010
@@ -193,8 +226,11 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 ### 2008
 
 - <a name=""></a>![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yongli Ren , Yangdong Ye , Gang Li: The density connectivity information bottleneck (**ICYCS**) [[paper]( https://dl.acm.org/doi/10.1109/ICYCS.2008.275)]
+
 - <a name=""></a> Brian Fulkerson，Andrea Vedaldi，Stefano Soatto: Localizing objects with smart dictionaries (**ECCV**) [[paper]( https://link.springer.com/chapter/10.1007/978-3-540-88682-2_15)]
+
 - <a name=""></a>![](https://img.shields.io/badge/Journal-Our%20lab's%20work-brightgreen) Yongli Ren, Yangdong Ye, Gang Li: The Density-Based Agglomerative Information Bottleneck (**PRICAI**) [[paper]( https://link.springer.com/chapter/10.1007%2F978-3-540-89197-0_32)]
+
 - <a name=""></a> Lei Wang, Jianjia Zhang, Luping Zhou: A Fast Approximate AIB Algorithm for Distributional Word Clustering (**CVPR**) [[paper]( https://www.computer.org/csdl/csdl/proceedings/cvpr/2013/4990/00/4989a556-abs.html)]
 
 ### 2006
@@ -227,7 +263,7 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 * [Naftali Tishby](http://naftali-tishby.mystrikingly.com/), Hebrew University, Jerusalem, Israel. [**Founder of Information Bottleneck**]
 * [Yangdong Ye](http://www5.zzu.edu.cn/mlis/Home.htm), Zhengzhou University, Zhengzhou, China. 
 * [Qing Xu](http://cic.tju.edu.cn/faculty/xuqing/pages/index.html), Tianjin University, Tianjin, China. 
-
+* [Tailin Wu](https://tailin.org/), Stanford University, California, China. 
 ## Citing
 
 ``` 
