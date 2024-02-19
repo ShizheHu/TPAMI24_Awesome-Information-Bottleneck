@@ -267,14 +267,17 @@ Unsupervised Image Categorization (**IJCAI**) [[paper](https://www.aaai.org/ocs/
 ## Citing
 
 ``` 
-@misc{
-  hu2020ib,
-  title={Awesome-Information-Bottleneck},
-  author={Shizhe Hu},
-  year={2020},
-  publisher={GitHub},
-  howpublished={\url{https://github.com/ShizheHu/Awesome-Information-Bottleneck}},
+@ARTICLE{2024IBSurvey,
+  author={Hu, Shizhe and Lou, Zhengzheng and Yan, Xiaoqiang and Ye, Yangdong},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={A Survey on Information Bottleneck}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-20},
+  doi={10.1109/TPAMI.2024.3366349}
 }
+
 ``` 
 
 ## Contact
