@@ -1,6 +1,6 @@
 # Awesome-Information-Bottleneck
 
-A curated list of related resources for information bottleneck.
+A curated list of related resources for information bottleneck. For more details, please see "Shizhe Hu, Zhengzheng Lou, Xiaoqiang Yan, and Yangdong Ye: A Survey on Information Bottleneck . IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 46(8): 5325-5344, Aug. 2024.".
 
 ## Contents
 
